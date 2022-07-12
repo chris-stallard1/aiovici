@@ -1,0 +1,5 @@
+asyncinit
+aioserial
+pyserial
+sphinx_rtd_theme
+sphinx-autodoc-typehints

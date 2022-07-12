@@ -1,0 +1,3 @@
+asyncinit
+aioserial
+pyserial
